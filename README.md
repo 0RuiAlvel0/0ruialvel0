@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 More information about me, posts on tech and development stuff (mostly codeigniter-related) and a cool tech-related newsletter you can subscribe to, 
-is here [https://site.supertechman.com]{https://site.supertechman.com). See you there or see you here on GitHub or see you on X. Or on all of these places.
+is here [on my personal site](https://site.supertechman.com). See you there or see you here on GitHub or see you on X. Or on all of these places.
 
 <!--
 **0RuiAlvel0/0ruialvel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
