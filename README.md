@@ -3,7 +3,7 @@
 More information about me, posts on tech and development stuff (mostly codeigniter-related) and a cool tech-related newsletter you can subscribe to, 
 is here [on my personal site](https://site.supertechman.com). See you there or see you here on GitHub or see you on X. Or on all of these places.
 
-![follow](https://img.shields.io/twitter/follow/ruialvel?style=social)
+[![follow](https://img.shields.io/twitter/follow/ruialvel?style=social)](https://twitter.com/ruialvel)
 
 
 <!--
