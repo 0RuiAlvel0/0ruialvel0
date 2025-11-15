@@ -5,8 +5,7 @@ is here [on my personal site](https://site.supertechman.com). See you there or s
 
 I have been a developer since I do not know when (that's how long ago it was) but only recently have I started using GitHub regularly following some changes to my life. The best place to connect with me is over on X. 
 
-[![follow](https://img.shields.io/twitter/follow/ruialvel?style=social)](https://twitter.com/ruialvel)
-![CI User Badge](https://commacmms.ddns.net/codeigniter-badges/badges/user-1.svg)
+[![follow](https://img.shields.io/twitter/follow/ruialvel?style=social)](https://twitter.com/ruialvel)](url)
 
 
 <!--
