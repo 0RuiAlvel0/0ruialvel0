@@ -7,6 +7,8 @@ I have been a developer since I do not know when (that's how long ago it was) bu
 
 <img src="https://ci-badges.supertechman.com//badges/user-1.svg" alt="CI User Badge"> [![follow](https://img.shields.io/twitter/follow/ruialvel?style=social)](https://twitter.com/ruialvel)
 
+Proud father of the CodeIgniter Resources Network and CI user badges. Get yours here -> [https://ci-badges.supertechman.com/](https://ci-badges.supertechman.com/)
+
 
 <!--
 
