@@ -13,5 +13,7 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 More things to show on badges:
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the vitual desktop where you start them. For windows. 
-[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/nodetie/total">](https://github.com/0RuiAlvel0/nodetie) NoteTie - hookmark but for windows
+
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/nodetie/total">](https://github.com/0RuiAlvel0/nodetie) NoteTie - like hookmark but for windows.
+
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopindicator/total">](https://github.com/0RuiAlvel0/desktopindicator) Desktop Indicator - know which virtual desktop you are in at all times. For window.
