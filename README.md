@@ -16,4 +16,4 @@ More things to show on badges:
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/nodetie/total">](https://github.com/0RuiAlvel0/nodetie) NoteTie - like hookmark but for windows.
 
-[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopindicator/total">](https://github.com/0RuiAlvel0/desktopindicator) Desktop Indicator - know which virtual desktop you are in at all times. For window.
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopindicator/total">](https://github.com/0RuiAlvel0/desktopindicator) Desktop Indicator - know which virtual desktop you are in at all times. For windows.
