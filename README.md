@@ -10,26 +10,8 @@ I have been a developer since I do not know when (that's how long ago it was) bu
 
 Proud father of the CodeIgniter Resources Network and CI user badges. Get yours here -> [https://ci-badges.supertechman.com/](https://ci-badges.supertechman.com/)
 
+More things to show on badges:
 
-<!--
-
-![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=flat-square)
-![Forks](https://img.shields.io/github/forks/USERNAME/REPO?style=flat-square)
-![Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPO?style=flat-square)
-![License](https://img.shields.io/github/license/USERNAME/REPO?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/USERNAME/REPO?style=flat-square)
-
-**0RuiAlvel0/0ruialvel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the vitual desktop where you start them. For windows. 
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/nodetie/total">](https://github.com/0RuiAlvel0/nodetie) NoteTie - hookmark but for windows
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopindicator/total">](https://github.com/0RuiAlvel0/desktopindicator) Desktop Indicator - know which virtual desktop you are in at all times. For window.
