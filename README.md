@@ -10,12 +10,16 @@ I have been a developer since I do not know when (that's how long ago it was) bu
 
 Proud father of the CodeIgniter Resources Network and CI user badges. Get yours here: [https://ci-badges.supertechman.com/](https://ci-badges.supertechman.com/)
 
-#Windows productivity tools (interact faster, organize faster, be more efficient):
+# Windows productivity tools (interact faster, organize faster, be more efficient):
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the vitual desktop where you start them. For windows.
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopindicator/total">](https://github.com/0RuiAlvel0/desktopindicator) Desktop Indicator - know which virtual desktop you are in at all times. For windows.
 
-#Other windows related apps:
+# VS code extension
+
+[Copilot credit tracker extension](https://github.com/0RuiAlvel0/copilot-credit-tracker)
+
+# Other windows related apps:
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/nodetie/total">](https://github.com/0RuiAlvel0/nodetie) NoteTie - like hookmark but for windows.
