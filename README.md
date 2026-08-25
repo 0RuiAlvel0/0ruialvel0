@@ -10,7 +10,7 @@ I have been a developer since I do not know when (that's how long ago it was) bu
 
 Proud father of the CodeIgniter Resources Network and CI user badges. Get yours here: [https://ci-badges.supertechman.com/](https://ci-badges.supertechman.com/)
 
-# Windows productivity tools:
+# Windows productivity tools
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the vitual desktop where you start them. For windows.
 
@@ -18,8 +18,8 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 
 # VS code extension
 
-[Copilot credit tracker extension](https://github.com/0RuiAlvel0/copilot-credit-tracker)
+[Copilot credit tracker extension](https://github.com/0RuiAlvel0/copilot-credit-tracker) - Track GitHub Copilot AI credit usage against the current month.
 
-# Other windows related apps:
+# Other windows related apps
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/nodetie/total">](https://github.com/0RuiAlvel0/nodetie) NoteTie - like hookmark but for windows.
