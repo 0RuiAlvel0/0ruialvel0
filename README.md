@@ -10,7 +10,7 @@ I have been a developer since I do not know when (that's how long ago it was) bu
 
 Proud father of the CodeIgniter Resources Network and CI user badges. Get yours here: [https://ci-badges.supertechman.com/](https://ci-badges.supertechman.com/)
 
-# Windows productivity tools (interact faster, organize faster, be more efficient):
+# Windows productivity tools:
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the vitual desktop where you start them. For windows.
 
