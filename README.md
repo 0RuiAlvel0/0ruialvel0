@@ -19,7 +19,3 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 # VS code extension
 
 [Copilot credit tracker extension](https://github.com/0RuiAlvel0/copilot-credit-tracker) - Track GitHub Copilot AI credit usage against the current month.
-
-# Other windows related apps
-
-[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/nodetie/total">](https://github.com/0RuiAlvel0/nodetie) NoteTie - like hookmark but for windows.
