@@ -16,6 +16,8 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopindicator/total">](https://github.com/0RuiAlvel0/desktopindicator) Desktop Indicator - know which virtual desktop you are in at all times. For windows.
 
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopscroll/total">](https://github.com/0RuiAlvel0/desktopscroll) Desktop Scroll - Scroll with your keyboard. For windows.
+
 # VS code extension
 
 [Copilot credit tracker extension](https://github.com/0RuiAlvel0/copilot-credit-tracker) - Track GitHub Copilot AI credit usage against the current month.
