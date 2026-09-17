@@ -20,4 +20,4 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 
 # VS code extension
 
-[Copilot credit tracker extension](https://github.com/0RuiAlvel0/copilot-credit-tracker) - Track GitHub Copilot AI credit usage against the current month.
+[Copilot credit tracker extension](https://github.com/0RuiAlvel0/copilot-credit-tracker) - Track GitHub Copilot AI credit usage against the current month (72 verified installs as of 15-09-2026).
