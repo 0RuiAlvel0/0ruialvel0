@@ -20,4 +20,6 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 
 # VS code extension
 
-[<img src="[https://img.shields.io/github/downloads/0RuiAlvel0/destktopscroll/total](https://img.shields.io/badge/installs-98-blue)">](https://github.com/0RuiAlvel0/copilot-credit-tracker) - Track GitHub Copilot AI credit usage against the current month (98 verified installs as of 15-09-2026).
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/destktopscroll/total">](https://github.com/0RuiAlvel0/destktopscroll) Desktop Scroll - Scroll with your keyboard. For windows.
+
+[<img src="https://img.shields.io/badge/installs-98-blue">](https://github.com/0RuiAlvel0/copilot-credit-tracker) Track GitHub Copilot AI credit usage against the current month. A VS Code extension.
