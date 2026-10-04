@@ -12,7 +12,7 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 
 # Windows productivity tools
 
-[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the vitual desktop where you start them. For windows.
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the virtual desktop where you start them. For windows.
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopindicator/total">](https://github.com/0RuiAlvel0/desktopindicator) Desktop Indicator - know which virtual desktop you are in at all times. For windows.
 
@@ -20,4 +20,4 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 
 # VS code extension
 
-[Copilot credit tracker extension](https://github.com/0RuiAlvel0/copilot-credit-tracker) - Track GitHub Copilot AI credit usage against the current month (72 verified installs as of 15-09-2026).
+[<img src="[https://img.shields.io/github/downloads/0RuiAlvel0/destktopscroll/total](https://img.shields.io/badge/installs-98-blue)">](https://github.com/0RuiAlvel0/copilot-credit-tracker) - Track GitHub Copilot AI credit usage against the current month (98 verified installs as of 15-09-2026).
