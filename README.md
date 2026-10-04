@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there
 
-More information about me, posts on tech and development stuff (mostly codeigniter-related) and a cool tech-related newsletter you can subscribe to, 
-is here [on my personal site](https://site.supertechman.com). See you there or see you here on GitHub or see you on X. Or on all of these places.
-
-I have been a developer since I do not know when (that's how long ago it was) but only recently have I started using GitHub regularly following some changes to my life. The best place to connect with me is over on X. 
+More information about me, posts on tech and development stuff and a cool tech-related newsletter you can subscribe to, 
+is here [on my personal site](https://site.supertechman.com). If you need to contact me, do it over on X which is where I'm the most active.
 
 [<img src="https://ci-badges.supertechman.com//badges/user-1.svg" alt="CI User Badge">](https://ci-badges.supertechman.com)
 [![follow](https://img.shields.io/twitter/follow/ruialvel?style=social)](https://twitter.com/ruialvel)
 
 Proud father of the CodeIgniter Resources Network and CI user badges. Get yours here: [https://ci-badges.supertechman.com/](https://ci-badges.supertechman.com/)
 
-# Windows productivity tools
+# Some of my stuff
+
+## Windows productivity tools
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the virtual desktop where you start them. For windows.
 
@@ -18,6 +18,6 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 
 [<img src="https://img.shields.io/github/downloads/0RuiAlvel0/destktopscroll/total">](https://github.com/0RuiAlvel0/destktopscroll) Desktop Scroll - Scroll with your keyboard. For windows.
 
-# VS code extension
+## VS code extension
 
 [<img src="https://img.shields.io/badge/verified_installs-98-blue">](https://github.com/0RuiAlvel0/copilot-credit-tracker) Track GitHub Copilot AI credit usage against the current month. A VS Code extension.
