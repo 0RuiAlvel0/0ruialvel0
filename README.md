@@ -12,11 +12,11 @@ Proud father of the CodeIgniter Resources Network and CI user badges. Get yours 
 
 ## Windows productivity tools
 
-[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the virtual desktop where you start them. For windows.
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktoptie/total">](https://github.com/0RuiAlvel0/desktoptie) DesktopTie - Apps open on the virtual desktop where you start them. For Windows.
 
-[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopindicator/total">](https://github.com/0RuiAlvel0/desktopindicator) Desktop Indicator - know which virtual desktop you are in at all times. For windows.
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/desktopindicator/total">](https://github.com/0RuiAlvel0/desktopindicator) Desktop Indicator - Know which virtual desktop you are in at all times. For Windows.
 
-[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/destktopscroll/total">](https://github.com/0RuiAlvel0/destktopscroll) Desktop Scroll - Scroll with your keyboard. For windows.
+[<img src="https://img.shields.io/github/downloads/0RuiAlvel0/destktopscroll/total">](https://github.com/0RuiAlvel0/destktopscroll) Desktop Scroll - Scroll with your keyboard. For Windows.
 
 ## VS code extension
 
